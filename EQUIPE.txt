@@ -1,5 +1,7 @@
 Equipe — Sprint 2 | Object-Oriented Programming
 
+Repositório: https://github.com/GP16-2CCR/S2-OBJECT-ORIENTED-PROGRAMMING
+
 Caio Cordeiro Salgado — RM565400
 Hector van Tol Taver — RM562881
 Juan Gigliotti da Cunha — RM563253
